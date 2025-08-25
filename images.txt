@@ -2,4 +2,4 @@ nginx
 mysql
 redis
 busybox
-postgres:17.5
+postgres
